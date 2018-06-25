@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+h1 {
+	font-family: nothing-you-could-do;
+	text-align: center;
+	color: floralwhite;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 50px;
+}
+
+h2 {
+	font-family: 'nothing-you-could-do';
+	text-align: center;
+	color: floralwhite;
+	font-size: 20px;
+}
+
+body {
+	background-color: #654D72;
+	background-image: url("widescreen-minimalist-background-WTG3078765.jpg");
+	background-size: cover;
+	font-family: "abel";
+	font-style: normal;
+	font-weight: 400;
+	padding-left: 22px;
+}
+
+.backButton {
+	background-color:transparent;
+	color: floralwhite;
+	font-family: "nothing-you-could-do";
+	padding: 5px;
+	display:block;
+	text-align: center;
+	position: relative;
+	
+}
